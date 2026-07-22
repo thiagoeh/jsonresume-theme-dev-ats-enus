@@ -28,6 +28,6 @@
     "swag": "^0.7.0"
   },
   "devDependencies": {
-    "resume-cli": "^3.1.2"
+    "resume-cli": "^3.7.2"
   }
 }
